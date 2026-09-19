@@ -1,6 +1,8 @@
 {
-    "title":"Blog Title",
+    "title":"begowin的博客",
     "subTitle":"Blog description",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last"
+
+    "remote_theme":cotes2020/jekyll-theme-chirpy
 }
